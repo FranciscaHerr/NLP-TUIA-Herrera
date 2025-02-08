@@ -1,0 +1,105 @@
+Carcassonne (juego)
+Carcassonne es un juego de mesa de estilo alemán, diseñado por Klaus Jürgen Wrede y publicado en el año 2000 por Hans im Glück en alemán y por Devir en castellano y catalán.
+Encabezados principales:
+- Contenidos
+- Desarrollo del juego
+- Expansiones
+- Versiones
+- Torneos
+- Asociaciones y comunidades
+- Referencias
+- Enlaces
+
+Carcassonne es un juego de mesa de estilo alemán, diseñado por Klaus Jürgen Wrede y publicado en el año 2000 por Hans im Glück en alemán y por Devir en castellano y catalán.
+Ambientado en la ciudad medieval amurallada francesa de Carcasona, el juego consiste en crear un mapa de juego donde los jugadores compiten por hacer el máximo número de puntos con las mejores posesiones del mapa. La estrategia individual es básica para ganar cada partida.
+La novedad del juego reside en que el tablero es nuevo en cada partida, puesto que los jugadores de forma aleatoria van sacando las fichas del terreno. Las fichas se componen de campos, ciudades, caminos y monasterios y deben colocarse de forma coherente. Sobre éstas se colocan las piezas de los personajes , que según donde se coloquen se convierten en granjeros, caballeros, monjes o ladrones. Las piezas de personajes permanecen estáticas en el tablero hasta que la construcción en la que están se acabe y/o finalice el juego y se repartan los puntos correspondientes. Los jugadores puntúan de dos formas
+Las reglas del juego son sencillas. La edad mínima aconsejada es de 10 años y las partidas con el juego básico sin expansiones no suelen durar más de 15 o 20 minutos.
+El juego cuenta con una secuela, Carcassonne Cazadores y Recolectores, así como múltiples expansiones compatibles entre sí, que permiten aumentar el número de jugadores y las posibilidades del juego.
+Actualmente existe una versión de Carcassonne para la Xbox360 la cual incluye la ampliación El Río y la posibilidad de jugar en línea.
+Existe también una plataforma online, la Board Game Arena, que cuenta como uno de sus juegos más populares con Carcassonne. Esta plataforma es la que reúne actualmente a un mayor número de jugadores internacionales, incluyendo a los considerados como mejores jugadores del mundo por haber representado a sus países en competición internacional y/o tener puntuaciones de ELO elevadas. Es, además, la plataforma en la que se juegan tanto diferentes competiciones online nacionales de diferentes países, como competiciones internacionales por equipos como el Europeo y el Mundial de Carcassonne, jugados a nivel de selecciones.
+El objetivo del juego es dominar el mayor número de construcciones posible y las más valiosas granjas del terreno. Todo ello se valora a través de un sistema de puntuación doble se otorgan puntos a lo largo del juego para las construcciones finalizadas, y al final del juego para las que no se han terminado y tienen meeples en ellas.
+El juego se desarrolla a través de tres turnos o fases
+Los primeros torneos internacionales de Carcassonne se celebraron en Alemania entre 2003 y 2005. ​
+El primer campeonato mundial de Carcasssonne se celebró en el año 2006 en la Fería de Essen. ​ Desde entonces el campeonato mundial se ha celebrado allí, con la excepción de las ediciones de 2010 y 2023 que se tuvieron sede en Herne y la edición de 2020 que se canceló debido a la pandemia de COVID 19. ​ Como resultado de la cancelación del campeonato de 2020, en la edición de 2021 se permitió a cada país enviar a dos jugadores . Ese mismo año debutó Cataluña en la competición de manera totalmente independiente a España. ​
+Como resultado de la cancelación del campeonato de 2020, la comunidad catalana decidió crear un campeonato mundial en línea por equipos, que se jugaría a lo largo de varias semanas a través de la plataforma Board Game Arena. ​ El equipo japonés ganó la primera edición. La segunda edición se jugó en 2021 y durante está edición Hans Im Gluck hizo oficial el campeonato como mundial por equipos. ​ ​
+Carcassonne no es un juego federado, pero cuenta con asociaciones y comunidades de jugadores aficionados en todo el mundo, siendo su finalidad la de dar a conocer el juego y organizar actividades de difusión, así como torneos a nivel competitivo. Algunas de estas asociaciones apoyan, además, a las editoriales del juego en la organización de competiciones nacionales de Carcassonne en sus respectivos países.
+Algunas de las comunidades y asociaciones de Carcassonne más importantes actualmente son
+Base game
+Encabezados principales:
+- General info and comments
+- Components and setup
+- Overview and goal of the game
+- Gameplay
+- Tile distribution
+- Footnotes
+
+Main Page > Carcassonne > Base game
+Originally released by Hans im Glück in 2014, this second edition of the game is known as C2 for short. A 20th Anniversary Edition was released in 2021 including some celebratory elements that do not affect the rules. A third edition, known as C3 for short, was released in 2021 including more detailed graphics and some minor wording changes.
+Copies printed in C2 in the period 2014 2016 have the darker city backgrounds. The 20th Anniversary Edition and Carcassonne C3 have cities with clipped buildings.
+The game was released in its first edition, known as C1 for short, in 2000. This edition includes some variations in wording, if compared with later editions, and a different graphic style. However, all the editions are compatible.
+Carcassonne, the world famous French city, is known for its imposing fortifications erected during Antiquity and the Middle Ages. This fortress, surrounded by magnificent walls, still stands today as one of the most unique French cities. In this game, players must develop the area around Carcassonne. They place their meeples onto roads and into cities, monasteries, and fields. Only those who make the most judicious placements will gain the points required to win the game.
+Farmers are considered a part of the base game for most Carcassonne players. They are also used in every official tournament as they are commonly not considered an expansion. In C2 and later editions, farmers were separated as a supplement to ease access to the game for new players and smooth learning curve. WikiCarpedia follows this streamlined approach. For the sake of other expansions and the rest of the WikiCarpedia, farmers are considered a part of the base game. You can find farmers rules here.
+Following part will explain initial setup and introduce components of the game.
+The 72 LANDSCAPE TILES show roads, cities, and monasteries, in a field.
+The backs of all the tiles are the same, but the START TILE has a darker colored back, so you can recognize it easily. Other graphical elements such as houses, people, or animals have no impact on the game.
+Place the start tile in the middle of the table. Shuffle the remaining tiles and set them as different facedown stacks that are easily accessible to all players. Tiles can also be placed into a sack or game box and drawn randomly.
+Then comes the scoreboard, which you set to the side of your playing surface .
+Finally, we have the MEEPLES. You will find in the box 40 regular meeples, including 8 meeples in each of these colors yellow, red, green, blue, and black. In addition, there are also 5 abbots. Usage of abbots is described in The Abbot mini expansion page, including 1 in each of the same colors. Abbots are not important from base game point of view.
+Included in the 20th Anniversary Edition is a sticker sheet for your meeples. The stickers are not assigned to specific colours, so you can sticker your meeples however you like. The stickers do not affect gameplay; they are purely decorative, so you can decide whether or not you want to use them.
+Start by distributing 7 meeples of the color of their choice to each player. These meeples constitute each player’s personal supply. Each player takes seven meeples of their chosen color to form their supply. Place each player s eighth meeple on the 0 space on the scoreboard. These will be used to track each player s score throughout the game. If you are not playing with The Abbot, put those unique meeples back into the box.
+Question Too few followers are we playing wrong or are there really too few?
+In Carcassonne, players take turns placing tiles and expanding the landscape of roads, cities, monasteries and fields, one tile at a time. Players may place their meeples on the individual features of tiles as well , where they will become highwaymen, knights, monks and farmers. Points are earned throughout the game, and the player with the highest score at the end is the winner!
+The rules for the 20th Anniversary Edition and Carcassonne C3 stay the same but the roles of some meeples have been updated
+Publishers have followed the new roles provided in the rules by HiG, although some of these changes are not noticeable in other languages.
+Note We stick to the classic role convention for the sake of consistency with all the exisiting rules for the time being. HiG may decide to update the rules in the future to follow this new naming convention for new releases and reprints.
+A game of Carcassonne is played in clockwise order. Starting with the youngest player, the current player does the following actions in the order listed below, after which it is the next player s turn, and so on and so forth. First, we ll give you a brief description of the actions you have to do during one of your turns. These actions will be detailed as we present the roads, the cities, and finally the monasteries. So what are these actions?
+1. Placing a tile
+2. Placing a meeple
+3. Scoring a feature
+You draw the depicted tile with three road segments starting from a village. You must place it in such a way that it continues the existing landscape . In the rare case that a tile cannot legally be placed anywhere, and all players agree, it is removed from the game, and the player draws another.
+After placing the tile, you may place a meeple as a highwayman on one of that tile’s road segments, but only if the road is unoccupied by another highwayman.
+In our example, since the road is not yet completed, no scoring occurs and play moves on to the next player.
+The next player draws a tile that he/she places to continue the landscape. They may not place a meeple on the road to the right since your highwayman is already present on that road. Instead, they choose to place their meeple as a knight in the city segment of that tile.
+When both ends of a road are closed, that road is completed and scored. The end of a road is closed when it meets a village, a city, a monastery, or it loops onto itself by meeting the other end.
+Question Can a road end in nothing?
+Even though it is your opponent that placed the tile, this still completes your road. How many points do you score? When scoring a road, each tile of that road grants you 1 point. Here, since you scored a road that is made out of 3 tiles, you score 3 points.
+It is now time to note your score. You keep track of your score with the meeple you placed on the scoreboard before starting the game. Continuing our example, you move it forward 3 spaces to show that you’ve scored 3 points. Note if your score passes 50 points, lay down your scoring meeple to show your 50+ points.
+After scoring, return any meeples that occupy the road that was just scored to their owners supply.
+We’ve already seen the most important parts of the game. Now, we will further expand on those actions by showing you how they apply to the other features, namely the cities and the monasteries
+As usual, you draw a tile that you use to continue the landscape. Of course, the illustration must be continued as well. For example, a city segment must be connected to an open city.
+Then, you see if there is already a meeple as a knight in the city. Here, there isn’t, so you can place one of your meeples as a knight in this city.
+Question We have difficulty deciding when a placed tile represents a new city or belongs to one already being built.
+Let’s continue our example and assume that a few turns have passed. You now draw this tile that you place to continue your city. Since the tile you’ve placed completes a feature , it must now be scored. A city is completed when it is surrounded by walls and there are no gaps inside the city. Since you have a meeple in the completed city, you are the player to score it.
+Each tile in a completed city is worth 2 points. In addition, each coat of arms is worth 2 more points. For this city, you score 8 points! As usual, the meeple that was in the scored feature returns to your supply.
+Once more, you draw a tile to continue the landscape. Monasteries are always depicted in the center of a tile. When placing such a tile, you must, as usual, make sure that it continues the illustration.
+You can place a meeple on a monastery as a monk. Of course, that meeple must come from your supply.
+A monastery is completed when it is surrounded by tiles. During scoring, the monastery is worth 1 point per tile that completes it .
+By placing this tile, you complete your monastery. It earns you 9 points and allows you to take your meeple back.
+We have already seen most of the rules for Carcassonne. There are only a few points left to see, but first, here is a summary of what we’ve seen so far
+The game ends as soon as a player can no longer draw and place a landscape tile. Then, players proceed to a final scoring, after which the winner will be known.
+Once the game is over, all meeples still in play are scored
+Once the final score is known, the winner is the player with the most points.
+You can place a meeple in a feature you just completed, immediately score it, and then return the meeple to your supply.
+To do so, follow these steps
+1. Place a tile, completing a feature .
+2. Place a meeple as a highwayman, knight, or monk on the feature you just completed.
+3. Score the completed road, city, or monastery and return the meeple to your supply.
+Question There is a situation that puzzles us. If a player draws a tile with two city segments and completes a small city, earning 4 points, can he or she then deploy a meeple to a new city segment in the same turn?
+There are a number of variants for the base game, which modify or redefine the rules of the game to achieve different effects. In the early years of the game, expansions were not so common and many fans started to explore alternative rules to exploit the game s potential. HiG noticed and posted many of these variants on their website for several years.
+You can find more information about these variants here.
+The players decide who starts the game by any method they choose such as by rolling three meeples. The first player to ‘roll’ a standing meeple decides who plays first.
+To determine the first player; each player draws a tile from the bag, the player that drew the tile with the most roads plays first, if there is a tie for most roads, a draw off takes place. This is repeated until someone wins.
+Take your next tile at the end of your turn, to give you time to think about placement and avoid analysis paralysis.
+Play with a three tile hand. The abbey counts as part of your hand. Play your turn, including the builder, and then draw back up to three tiles. These tiles could be visible to all or hidden to the other players
+When playing with a bag for the tiles, the original starting tile may be put into the bag, and unplayable tiles can be put back into the bag rather than set to one side.
+Trees on roads do not end the road only houses do . This makes road building a lot more dynamic.
+When a tile is the only tile which can currently complete a structure, other players can offer to ‘buy’ it by offering points, trades counter, abbey, and so on.
+If you place a tile that fills a hole in the playing field by touching something on all four adjacent sides, you get another turn. This helps motivate people to finish the board even if they do not get an advantage from the placement. .
+Incomplete features at the end of the game do not score points at the end of the game.
+The edge of the table limits the playing area. Thus, a player may not place a tile past the edge of the table or move the playing area to place a tile that would have been past the edge of the table.
+Table borders COMPLETE features as an abbey would.
+Use colored dice instead of meeples on the scoring track. Start out with the 6 showing on top. When the marker completes one lap, turn it to the number 1 to indicate it has completed one lap. This shows at a glance which player is on what lap and who s ahead. On the 100 space track it’s even easier to determine someone’s score at a glance.
+A number of questions have been asked about rules related to the play area itself, including what happens when the edge of the area is reached, or if a table has to be used for play. The following clarifications are from Georg Wild from HiG
+This edition replaces one pigsty for one cowshed in the tiles marked with .
+The 20th Anniversary Edition includes some celebratory details besides the glossy UV printing
+For Icons explanation and licensing please visit Icons page.
